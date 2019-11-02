@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+.background{
+    background-color:grey;
+}
+
+#myParagraph{
+    text-align: center;
+}
+
+div{
+    text-align: left;
+}
+
+p{
+    text-align: center;
+    /* font-size: 30px; */
+    font-weight: bold;
+    font-family: 'Zhi Mang Xing', cursive;
+    /* letter-spacing: -5px; */
+}
+
+.orange-background{
+    background-color: orangered;
+}
+
+.green-background{
+    background-color: green;
+}
+
+.blue-border{
+    border-style:dotted;
+}
+
+.text-format{
+    text-align: left;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    direction: rtl;
+    word-spacing: 10px;
+    text-shadow: 1px 1px grey;
+
+
+    
+}
+
+.font-format{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size:25px;
+    font-weight: bolder;
+}
+
+a{
+    color:green;
+}
+
+/* WHen link is unvisited */
+a:link{
+    color:rebeccapurple;
+}
+
+/* when the link is visited */
+a:visited{
+
+    color:red;
+
+}
+
+/* When mouse is hovered over a link */
+
+a:hover{
+
+    color:green;
+    font-size: 30px;
+
+}
+
+/* when link is active */
+a:active{
+
+    color:blue;
+
+}

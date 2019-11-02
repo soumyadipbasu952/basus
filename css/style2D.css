@@ -1,0 +1,35 @@
+div{
+    width: 200px;
+    height: 200px;
+    /* background-color: #002147; */
+    background-color: rgb(64, 0, 64);
+
+}
+
+div.translate:hover{
+transform: translate(50px,60px);
+
+background-color: #002147;
+
+}
+
+div.rotate:hover{
+    transform: rotateZ(120deg);
+   
+    background-color: #002147;
+    
+    }
+
+    div.scale:hover{
+        transform: scale(2,3);
+       
+        background-color: #002147;
+        
+        }
+
+        div.scale1:hover{
+            transform: scale(.5,.5);
+           
+            background-color: #002147;
+            
+            }
