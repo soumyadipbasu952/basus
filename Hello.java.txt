@@ -3,7 +3,14 @@ class Hello
 	public static void main(String [] args)
 	{
 	}
+<<<<<<< HEAD
 	Public void m1()
 		{
 		}
+=======
+
+public void m2()
+{
+}
+>>>>>>> soumya
 }
